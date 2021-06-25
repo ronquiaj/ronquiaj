@@ -7,7 +7,7 @@ Hi there! My name is Adrian Ronquillo, and I'm going to be a senior this next sc
 - ### Software Engineering Intern: 
     For the summer of 2021, I'm currently working with Metronet - a fiber optic telecommunication company based in Evansville, Indiana. My task is to help design the user interface for the field technicians, and that involves technologies such as NodeJS, React, Typescript, GraphQL, React Storybooks, Github, and SOAP APIs.
 - ### Programming Teaching Assistant:
-    I have a semesters experience of being an intro to computer science teaching assistant, and will be continuing the position for my last year of college. What I do is grade student programs and answer basic programming and object-oriented programming questions.
+    I have a one semesters experience of being an intro to computer science teaching assistant, and will be continuing the position for my last year of college. What I do is grade student programs and answer basic programming and object-oriented programming questions.
 - ### Residential Assistant
     While not being related to programming, I've developed strong teamwork and communication skills by being an RA, which are soft skills that are valuable in the programming world.
 <!--
