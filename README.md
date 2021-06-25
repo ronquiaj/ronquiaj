@@ -1,5 +1,13 @@
-### Hi there 👋
+# Look who's stumbled onto my page 😉
+---
+## A little bit about myself...
+Hi there! My name is Adrian Ronquillo, and I'm going to be a senior this next school year (2021-2022) at Pacific Lutheran University in Tacoma, Washington. I come from a small town of 8000ish people from Ketchikan, Alaska, but don't get the impression that I'm not not settings my sights for higher. I'm very enthusiastic about learning new technologies and programming languages, and am interested in pursuing a career in web development.
 
+## Experience
+- ### Software Engineering Intern: 
+    For the summer of 2021, I'm currently working with Metronet - a fiber optic telecommunication company based in Evansville, Indiana. My task is to help design the user interface for the employees.
+- ### Programming Teaching Assistant
+- ### Residential Assistant
 <!--
 **ronquiaj/ronquiaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
