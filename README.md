@@ -13,7 +13,7 @@ Hi there! My name is Adrian Ronquillo, and I'm going to be a senior this next sc
     
 ## Projects
 ### Storytime
-Storytime is an interactive story-making website where you can create an account and then get started making stories with friends. Technologies that were involved
+Storytime is an interactive story-making website where you can create an account and then get started making stories with friends. Technologies that were involved were React and Firebase.
 
 ![image](https://user-images.githubusercontent.com/60367655/123486541-d9916e00-d5d1-11eb-85df-ad6e4857c10a.png)
 
