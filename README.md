@@ -4,6 +4,8 @@
 Hi there! My name is Adrian Ronquillo, and I'm a UI engineer at Netflix! 
 
 ## Experience
+- ### Full-Time Software Engineer🧑‍💻:
+    I work as a UI engineer at Netflix, joined in 2022 as part of the first new grad cohort! Super thankful to be working there and making some awesome things.  
 - ### Software Engineer / Intern 💻: 
     For the summer of 2021, I worked with Metronet - a fiber optic telecommunication company based in Evansville, Indiana. My task was to help design the user interface for the field technicians, and that involved technologies such as NodeJS, React, Typescript, GraphQL, React Storybooks, Github, and SOAP APIs. My most notable achievement at MetroNet was creating a QuickPay feature that reduced payments in-store by over 40%, leading to freed up time for receptionists.
 - ### Programming Teaching Assistant 👨🏽‍🏫:
